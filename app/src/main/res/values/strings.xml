@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">CapStone_navi_tab</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="nav_nickname">헬린이</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_exercise">Exercise</string>
+    <string name="menu_calendar">Calendar</string>
+    <string name="menu_settings">Settings</string>
+    
+    <string name="facebook_app_id">119684330062420</string>
+    <string name="fb_login_protocol_scheme">fb119684330062420</string>
+    <string name="save">저장</string>
+    <string name="logout">Logout</string>
+    <string name="hello">반갑습니다</string>
+    <string name="menu_mypage">mypage</string>
+</resources>

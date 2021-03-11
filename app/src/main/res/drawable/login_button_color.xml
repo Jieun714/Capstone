@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_enabled="false">
+        <shape>
+            <solid android:color="@color/btnGoogle"></solid>
+            <corners android:radius="20dp"></corners>
+        </shape>
+    </item>
+    <item android:state_enabled="true">
+        <shape>
+            <solid android:color="#E4E4E4"></solid>
+            <corners android:radius="20dp"></corners>
+        </shape>
+    </item>
+
+</selector>
